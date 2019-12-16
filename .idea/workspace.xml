@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83fd2a20-5a1e-46c0-bab4-b0b7cafd208a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/cmfz_zsc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="cmfz" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/AccountController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/IdentifyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/util/SMSVerification.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/ChapterController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/User.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dto/Photo.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/util/UpluadFile.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/kin.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Article.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/ArticleController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ArticleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/test/java/com/zsc/CmfzZscApplicationTests.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/SlideshowService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/SlideshowServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Album.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/AlbumService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/AlbumServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ChapterService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ChapterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Chapter.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/user.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/echarts/china.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/UserService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/home.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dto/UserCount.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/test/AdminTest.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/article.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/login.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/SlideshowController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/pom.xml" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/PoiPublicUtil.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/slideshow.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/album.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/echartsUser.jsp" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/AlbumController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/HomePageContrioller.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/AlbumDao.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/SlideshowDao.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/ArticleDao.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/HomePageService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/wenController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/WenService.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/impl/HomePageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/HomePageController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/WenController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/impl/WenServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/AccountController.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/Identifycontroller.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/util/SMSVerification.java" />
+        <option value="$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/IdentifyController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cmfz_zsc" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="108" />
+    <option name="width" value="1710" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="frontcontroller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cmfz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cmfz_zsc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="back" type="462c0819:PsiDirectoryNode" />
+              <item name="secondary-page" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cmfz_zsc/src/main/webapp/echarts" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\album" />
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\back\SecondaryPage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\echarts" />
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\back" />
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\back\static\jqgrid\js" />
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\webapp\back\assets\img" />
+      <recent name="F:\java-idea\cmfz\cmfz_zsc\src\main\java\com\zsc\util" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.zsc.controller" />
+      <recent name="com.zsc.dto" />
+      <recent name="com.zsc.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CmfzZscApplication">
+    <configuration name="AdminTest.dsa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz_zsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zsc.test.AdminTest" />
+      <option name="METHOD_NAME" value="dsa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.goeasy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz_zsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zsc.test.AdminTest" />
+      <option name="METHOD_NAME" value="goeasy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.naafdasme" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz_zsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zsc.test.AdminTest" />
+      <option name="METHOD_NAME" value="naafdasme" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.testEasy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz_zsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsc.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsc.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zsc.test.AdminTest" />
+      <option name="METHOD_NAME" value="testEasy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmfzZscApplicationTests.asd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cmfz_zsc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zsc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zsc" />
+      <option name="MAIN_CLASS_NAME" value="com.zsc.CmfzZscApplicationTests" />
+      <option name="METHOD_NAME" value="asd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CmfzZscApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cmfz_zsc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zsc.CmfzZscApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CmfzZscApplicationTests.asd" />
+      <item itemvalue="JUnit.AdminTest.testEasy" />
+      <item itemvalue="JUnit.AdminTest.goeasy" />
+      <item itemvalue="JUnit.AdminTest.naafdasme" />
+      <item itemvalue="JUnit.AdminTest.dsa" />
+      <item itemvalue="Spring Boot.CmfzZscApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminTest.dsa" />
+        <item itemvalue="JUnit.AdminTest.naafdasme" />
+        <item itemvalue="JUnit.AdminTest.goeasy" />
+        <item itemvalue="JUnit.AdminTest.testEasy" />
+        <item itemvalue="JUnit.CmfzZscApplicationTests.asd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83fd2a20-5a1e-46c0-bab4-b0b7cafd208a" name="Default Changelist" comment="" />
+      <created>1575445885724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575445885724</updated>
+      <workItem from="1575445889912" duration="53400000" />
+      <workItem from="1575540172684" duration="17447000" />
+      <workItem from="1575592499319" duration="26207000" />
+      <workItem from="1575627588478" duration="162000" />
+      <workItem from="1575627754000" duration="64000" />
+      <workItem from="1575627820614" duration="78000" />
+      <workItem from="1575627901017" duration="879000" />
+      <workItem from="1575628820888" duration="213000" />
+      <workItem from="1575651808134" duration="35000" />
+      <workItem from="1575651898445" duration="9000" />
+      <workItem from="1575651934701" duration="441000" />
+      <workItem from="1575687144093" duration="39968000" />
+      <workItem from="1575791872955" duration="15390000" />
+      <workItem from="1575852049936" duration="36913000" />
+      <workItem from="1575939362810" duration="32494000" />
+      <workItem from="1576024487460" duration="24509000" />
+      <workItem from="1576073626402" duration="2388000" />
+      <workItem from="1576077422436" duration="4321000" />
+      <workItem from="1576110661824" duration="19721000" />
+      <workItem from="1576205774935" duration="741000" />
+      <workItem from="1576208444510" duration="5648000" />
+      <workItem from="1576373949357" duration="17620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 22h 56m 46s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 22h 57m 53s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 22h 59m 05s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 22h 59m 54s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 23h 00m 16s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 23h 00m 58s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 23h 15m 19s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 23h 56m 07s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_naafdasme - 2019.12.11 at 23h 57m 18s.xml">
+      <configuration name="AdminTest.naafdasme" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminTest_dsa - 2019.12.12 at 16h 19m 15s.xml">
+      <configuration name="AdminTest.dsa" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="298648000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="87" y="0" width="1368" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3572519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.7078189" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2537723" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Favorites" order="6" weight="0.32921812" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32921812" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.75994515" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32784638" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32921812" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.107238606" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.36279926" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.8899676" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39917696" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Favorites" order="6" weight="0.32921812" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32921812" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.75994515" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32784638" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32921812" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.26742628" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/ArticleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="60" column="23" lean-forward="true" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/articleadd.jsp" />
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/test/java/com/zsc/CmfzZscApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="67" column="83" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/SlideshowServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="92" column="39" selection-start-line="92" selection-start-column="39" selection-end-line="92" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2772#2773#0" expanded="true" />
+            <element signature="e#2799#2800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/SlideshowService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="24" column="32" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ArticleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="50" column="47" lean-forward="true" selection-start-line="50" selection-start-column="47" selection-end-line="50" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ChapterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2601#2602#0" expanded="true" />
+            <element signature="e#2634#2635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/AlbumServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2420#2421#0" expanded="true" />
+            <element signature="e#2451#2452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/AlbumService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/ChapterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/ChapterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="83" column="38" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/logfile.2019-12-05.0191314233047600.tmp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1956016" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/echarts/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/echarts/china.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dto/Photo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" selection-start-line="9" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/echarts/china.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="157" column="30" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="157" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dto/UserCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="95" column="45" selection-start-line="95" selection-start-column="45" selection-end-line="95" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2567#2568#0" expanded="true" />
+            <element signature="e#2625#2626#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/test/AdminTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="137" column="5" lean-forward="true" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="830">
+          <caret line="121" lean-forward="true" selection-start-line="121" selection-end-line="121" />
+          <folding>
+            <element signature="n#style#0;n#font#0;n#b#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#b#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#b#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/PoiPublicUtil.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/afterturn/easypoi-base/3.2.0/easypoi-base-3.2.0.jar!/cn/afterturn/easypoi/util/PoiPublicUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="49" column="47" lean-forward="true" selection-start-line="49" selection-start-column="47" selection-end-line="49" selection-end-column="47" />
+          <folding>
+            <element signature="e#7009#7010#0" expanded="true" />
+            <element signature="e#7072#7073#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/article.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1141">
+          <caret line="157" column="34" lean-forward="true" selection-start-line="157" selection-start-column="34" selection-end-line="157" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Slideshow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/SlideshowController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="175" column="68" selection-start-line="175" selection-start-column="54" selection-end-line="175" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/user.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/album.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6412">
+          <caret line="229" column="75" selection-start-line="229" selection-start-column="71" selection-end-line="229" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="88" column="46" selection-start-line="88" selection-start-column="46" selection-end-line="88" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/AlbumController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2128">
+          <caret line="102" column="19" selection-start-line="102" selection-start-column="19" selection-end-line="102" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/echartsUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="57" column="10" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/webapp/back/secondary-page/slideshow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Album.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/ChapterDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/entity/Chapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/AlbumDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/SlideshowDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="67" lean-forward="true" selection-start-line="14" selection-start-column="67" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/ArticleDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/HomePageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/impl/HomePageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#firstPage#0;class#HomePageServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1967">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/WenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/HomePageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/impl/WenServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/frontService/WenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/util/SMSVerification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/IdentifyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmfz_zsc/src/main/java/com/zsc/controller/frontcontroller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="22" column="14" lean-forward="true" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web2|cmfz_zsc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
